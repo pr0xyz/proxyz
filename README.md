@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/murilorenner_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="murilorenner_" height="30" width="40" /></a>
-<a href="https://discord.gg/! Murilo#3377" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="! Murilo#3377" height="30" width="40" /></a>
+<a href="https://discord.gg/Rq7mZp6djw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="! Murilo#3377" height="30" width="40" /></a>
 </p>
 
 
